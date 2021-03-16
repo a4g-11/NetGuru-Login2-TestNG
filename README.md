@@ -8,9 +8,11 @@ Automation testing tools: Eclipse, Selenium, TestNG, Zephyr
 * Download Project Files From GitHub Repository
 * Run Test As TestNG Suite
 
-Comment: I used to automate 2 scenarios (invalid credentials, valid credentials)
-IMPORTANT!!! RUN THIS TEST AUTOMATION ONLY AFTER SingUp1. Email should be the same as SingUp1 "tech150@mailpoof.com"
-As long as it Run Successfully 1st Time its possible to run it over again no need to change email. 
+Comment: 
+- IMPORTANT!!! RUN THIS TEST AUTOMATION ONLY AFTER [SingUp1](https://github.com/a4g-11/NetGuru-SignUp1-TestNG.git). 
+- Email should be the same as SingUp1 "tech150@mailpoof.com"
+- As long as it Run Successfully 1st Time its possible to run it over again no need to change email. 
+- I used to automate 2 scenarios (invalid credentials, valid credentials)
 
 ## Setting Up Eclipse to RUN Test
 
